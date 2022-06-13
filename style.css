@@ -19,3 +19,26 @@
     color: #ffff;
     border: none;
 }
+.cat-1, .cat-2, .cat-3{
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+.cat-1{
+    background-image: linear-gradient(to right, #ffa908 0%, #ffee00 100%);
+}
+.cat-2{
+    background-image: linear-gradient(to right, #f8405f 0%, #ff3456 100%);
+}
+.cat-3{
+    background-image: linear-gradient(to right, #4949ff, #1616ff);
+}
+.categories h1{
+    color: white;
+}
+.categories img{
+    width: 100px;
+}
+.card{
+    box-shadow: 5px 5px 10px lightgray;
+    border: none;
+}
